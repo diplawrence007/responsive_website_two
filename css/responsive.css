@@ -1,0 +1,242 @@
+/* Default Layout:992px */
+
+
+/* Tablet Layout:768px */
+@media only screen and (min-width: 768px) and (max-width:991px) {
+.navbar-custom .nav li a {
+	letter-spacing: 1px;
+	color: white;
+	font-size: 11px;
+	color: black;
+}
+.btn-default {
+	background: #4dd3f6;
+	border: none;
+	color: white;
+	padding: 10px 14px;
+	border-radius: 21px;
+	margin-top: 2px;
+}
+.navbar-custom {
+	background-color: white;
+	-webkit-transition: padding 0.3s;
+	-moz-transition: padding 0.3s;
+	transition: padding 0.3s;
+	border: none;
+	padding-top: 14px;
+	padding-bottom: 9px;
+}
+.navbar-custom .nav li a {
+	letter-spacing: 1px;
+	color: white;
+	font-size: 11px;
+	color: black;
+	padding-bottom: 0px;
+}
+.BEST-VIEWS h1 {
+	color: white;
+	font-weight: 900;
+	font-size: 59px;
+	text-align: center;
+}
+.Willkommen-bei-top img {
+	width: 100%;
+}
+.Mein-Paleo-img img {
+	width: 100%;
+}
+.Du-möchtest-main {
+	background: url(../img/Rectangle-3-copy-3.jpg);
+	padding: 50px 0px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top: -14px;
+	text-align: center;
+}
+.navbar-default {
+	background:#0ad83e;
+	border: none;
+}
+
+	
+}
+
+
+/* Mobile Layout:320px */
+@media only screen and (min-width: 320px) and (max-width:767px) {
+.navbar-default {
+	background:#0ad83e;
+	border: none;
+}
+.navbar-brand {
+	float: left;
+	height: 50px;
+	padding: 0px 0px;
+	font-size: 18px;
+	line-height: 20px;
+	width: 50%;
+}
+.navbar-brand > img {
+	display: block;width: 100%;
+}
+.navbar-nav-text h3 {
+	font-weight: 700;
+	padding-top: 0px;
+}
+.btn-default {
+	background: #4dd3f6;
+	border: none;
+	color: white;
+	padding: 10px 14px;
+	border-radius: 21px;
+	margin-top: 0px;
+}
+.BEST-VIEWS h1 {
+	color: white;
+	font-weight: 900;
+	font-size: 37px;
+	text-align: center;
+}
+.BEST-VIEWS h2 {
+	color: white;
+	text-align: center;
+	font-size: 25px;
+	color: #e7dede;
+	padding: 5px 0px 11px 0px;
+}
+.banner {
+	background: url(../img/Hintergrund.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 175px 0px 62px 0px;
+}
+.Willkommen-bei-top img {
+	width:100%;
+}
+
+.Willkommen-bei h1 {
+	font-size: 32px;
+	color: #4d4d4d;
+	line-height: 34px;
+	padding-top: 0px;
+}
+.Willkommen-bei h3 {
+	color: #a6a6a6;
+	line-height: 26px;
+	padding-top: 10px;
+	font-size: 16px;
+}
+.Willkommen-bei {
+	padding: 60px 0px;
+}
+.Du-möchtest-main h4 {
+	color: white;
+	font-size: 14px;
+	 padding:0px 0px
+}
+.Du-möchtest h3 {
+	color: white;
+	font-size: 22px;
+}
+.Du-möchtest-main {
+	background: url(../img/Rectangle-3-copy-3.jpg);
+	padding: 27px 0px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top: -14px;
+	text-align: center;
+}
+.Mein-Paleo-main {
+	padding: 39px 0px;
+	text-align:center
+}
+.Mein-Paleo h1 {
+	color: #4d4d4d;
+	font-size: 25px;
+}
+.Mein-Paleo-img-one img {
+	padding-top: 18px;
+	padding-left: 2px;
+}
+.Mein-Paleo-img img {
+	width: 100%;
+	padding-top: 11px;
+}
+.Tipps {
+	background: url(../img/5.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 28px 0px 46px 0px;
+}
+.Schreib p {
+	color: #555555;
+	line-height: 20px;
+	padding: 15px 0px 8px 0px;
+	font-size: 10px;
+}
+.form {
+	max-width: 302px;
+	margin: 0 auto;
+}
+.form-control-name{
+	margin-bottom:17px
+}
+.healthy h1 {
+	color: #4d4d4d;
+	padding-bottom: 30px;
+	font-size: 25px;
+}
+.navbar-custom .navbar-toggle {
+	border-color: #fed136;
+	font-family: 'Titillium Web', sans-serif;
+	text-transform: uppercase;
+	color: white;
+	font-size: 12px;
+	margin-top: 6px;
+	margin-bottom: 7px;
+	background: #f06000;
+}
+
+
+}
+
+
+/* Wide Mobile Layout:480px */
+@media only screen and (min-width: 410px) and (max-width:767px) {
+
+.navbar-brand > img {
+	display: block;
+	width: 80%;
+}
+.form {
+	max-width: 340px;
+	margin: 0 auto;
+}
+.Schreib p {
+	color: #555555;
+	line-height: 20px;
+	padding: 15px 0px 8px 0px;
+	font-size: 13px;
+}
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
